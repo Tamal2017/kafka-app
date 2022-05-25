@@ -1,4 +1,4 @@
-package jo.training.demo.entities;
+package jo.training.demo.models;
 
 
 public class MessageRequest {

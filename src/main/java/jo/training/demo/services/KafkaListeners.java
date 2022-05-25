@@ -1,4 +1,4 @@
-package jo.training.demo;
+package jo.training.demo.services;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;

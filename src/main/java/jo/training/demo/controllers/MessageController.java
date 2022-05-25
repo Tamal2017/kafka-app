@@ -1,6 +1,6 @@
 package jo.training.demo.controllers;
 
-import jo.training.demo.entities.MessageRequest;
+import jo.training.demo.models.MessageRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.PostMapping;
